@@ -44,7 +44,6 @@ public class Child {
         else
             System.out.println(name+": No! but okay");
     }
-
     public void ToGrandMa() {
         System.out.println("Let's go!");
     }
